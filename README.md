@@ -7,7 +7,7 @@
 ### Shipped
 
 - **Cursus**: co-founded an EdTech startup. A learning platform for schools, 600+ students, piloted at ADNOC Schools.
-- **Sportic**: took over a live sports venue booking platform. Two mobile apps, three web apps, payments, over-the-air updates.
+- **Sportic**: took over a live sports booking platform and made it something I would sign my name on.
 
 ### AI harnesses
 
